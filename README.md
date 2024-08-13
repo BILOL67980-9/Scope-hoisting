@@ -15,7 +15,6 @@ const me = "Bilol"
 const job = "not"
 const year = "2009"
 ```
-![image](https://github.com/user-attachments/assets/03416fe6-e5d5-466b-9014-220d3ec1f153)
 
 
 ![logo](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/08/1439485113Fotolia_83773272_Subscription_Monthly_M.jpg)
@@ -25,5 +24,8 @@ const year = "2009"
 
 ***Как это работает:***
 - В JavaScript, когда интерпретатор выполняет код, он сначала "всплывает" (hoists) все объявления переменных и функций в верхнюю часть своей области видимости, но не их инициализацию. Это означает, что функции могут быть вызваны до их фактического определения в коде, а переменные будут инициализированы значением undefined, если к ним обратиться до инициализации.
+
+![image](https://github.com/user-attachments/assets/03416fe6-e5d5-466b-9014-220d3ec1f153)
+
 
 ![logotipe](https://top-kray.ru/images/ex/good/b_60382ec0.jpg)
