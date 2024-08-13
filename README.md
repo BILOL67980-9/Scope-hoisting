@@ -27,5 +27,7 @@ const year = "2009"
 
 ![image](https://github.com/user-attachments/assets/03416fe6-e5d5-466b-9014-220d3ec1f153)
 
+![image](https://github.com/user-attachments/assets/cac4360e-0612-4810-b9a6-b35986187d0f)
+
 
 ![logotipe](https://top-kray.ru/images/ex/good/b_60382ec0.jpg)
