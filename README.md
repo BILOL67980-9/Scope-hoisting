@@ -10,6 +10,12 @@
 - Local Scope (Локальная область видимости): Переменные и функции, объявленные внутри функций или блоков кода, доступны только в пределах этих функций или блоков.
 - Block Scope (Область видимости блока): В языках программирования, поддерживающих block scope (например, JavaScript с использованием let и const), переменные видны только в пределах блока кода, в котором они объявлены.
 
+```
+const me = "Bilol"
+const job = "not"
+const year = "2009"
+```
+
 ![logo](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/08/1439485113Fotolia_83773272_Subscription_Monthly_M.jpg)
   
 ### 2. Hosting
