@@ -9,8 +9,6 @@
 - Global Scope (Глобальная область видимости): Переменные и функции, объявленные в глобальной области видимости, доступны из любой части программы.
 - Local Scope (Локальная область видимости): Переменные и функции, объявленные внутри функций или блоков кода, доступны только в пределах этих функций или блоков.
 - Block Scope (Область видимости блока): В языках программирования, поддерживающих block scope (например, JavaScript с использованием let и const), переменные видны только в пределах блока кода, в котором они объявлены.
-  ![image](https://github.com/user-attachments/assets/1a27f3c5-35e9-464a-ad12-a4315257e6f8)
-  ![image](https://github.com/user-attachments/assets/7b5464f4-ea40-4f24-b928-c387518290b3)
 
 ![logo](https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2015/08/1439485113Fotolia_83773272_Subscription_Monthly_M.jpg)
   
