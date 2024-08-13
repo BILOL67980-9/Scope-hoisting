@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/6c2695a8-c985-45f1-87d3-47060d68e9ba)
 # JS lectures
 ## Scope и Hosting
 
